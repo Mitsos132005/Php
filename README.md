@@ -1,2 +1,3 @@
 # Php
-A repository with all my Php programs and projects
+Here you'll find all my Php programs and projects that I have done over the years
+
